@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "tbm_nether:piglin_statues",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 14357617,
+      "spacing": 32,
+      "separation": 8
+    }
+}

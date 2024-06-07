@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "tbm_nether:fossil",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 12482135,
+      "spacing": 14,
+      "separation": 6
+    }
+}

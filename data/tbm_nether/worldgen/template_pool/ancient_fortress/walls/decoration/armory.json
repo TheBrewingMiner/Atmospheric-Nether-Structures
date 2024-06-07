@@ -1,0 +1,114 @@
+{
+    "name": "tbm_nether:ancient_fortress/walls/decoration/armory",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_3",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_4",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_5",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_6",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_7",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_8",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_9",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_10",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_11",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/decoration/walls/armory/stands_12",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

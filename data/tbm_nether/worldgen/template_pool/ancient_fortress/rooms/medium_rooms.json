@@ -1,0 +1,51 @@
+{
+    "name": "tbm_nether:ancient_fortress/rooms/medium_rooms",
+    "fallback": "tbm_nether:ancient_fortress/rooms/small_rooms",
+    "elements": [
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/medium_1"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/medium_2"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/medium_5"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/medium_6"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/medium_9"
+            }
+        }
+    ]
+}

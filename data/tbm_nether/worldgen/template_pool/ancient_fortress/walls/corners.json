@@ -1,0 +1,87 @@
+{
+    "name": "tbm_nether:ancient_fortress/walls/corners",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/intact_corner",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/intact_corner_connector_1",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/intact_corner_connector_2",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/degraded_corner_connector_1",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/degraded_corner_connector_2",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/degraded_corner",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/destroyed_corner_connector_1",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/destroyed_corner_connector_2",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/corners/destroyed_corner",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

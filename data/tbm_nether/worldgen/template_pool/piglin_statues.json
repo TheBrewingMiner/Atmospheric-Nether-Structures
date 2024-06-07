@@ -1,0 +1,33 @@
+{
+  "name": "tbm_nether:piglin_statues",
+  "fallback": "minecraft:empty",
+  "elements": [
+	  {	
+      "weight": 25,
+      "element": {
+        "location": "tbm_nether:colossal_blackstone_heads/large_piglin_statue",
+        "processors": "tbm_nether:piglin_statue",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	  {	
+      "weight": 45,
+      "element": {
+        "location": "tbm_nether:colossal_blackstone_heads/small_piglin_statue",
+        "processors": "tbm_nether:piglin_statue",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	  {	
+      "weight": 30,
+      "element": {
+        "location": "tbm_nether:colossal_blackstone_heads/armored_small_piglin_statue",
+        "processors": "tbm_nether:piglin_statue",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

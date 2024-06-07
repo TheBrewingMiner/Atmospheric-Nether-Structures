@@ -1,0 +1,24 @@
+{
+    "name": "tbm_nether:ancient_fortress/loot_tables/archery",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/loot_tables/archer_chest_1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/loot_tables/archer_chest_2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

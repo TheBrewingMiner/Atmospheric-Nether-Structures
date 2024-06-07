@@ -1,0 +1,114 @@
+{
+    "name": "tbm_nether:ancient_fortress/walls/walls",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/intact_archer_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/intact_forge_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/intact_walkway_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/intact_armory_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/degraded_archer_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/degraded_forge_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/degraded_walkway_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/degraded_armory_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/destroyed_archer_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/destroyed_forge_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/destroyed_walkway_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/walls/destroyed_armory_wall",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

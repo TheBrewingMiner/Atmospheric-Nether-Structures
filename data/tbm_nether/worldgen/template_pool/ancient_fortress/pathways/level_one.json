@@ -1,0 +1,231 @@
+{
+    "name": "tbm_nether:ancient_fortress/pathways/level_one",
+    "fallback": "tbm_nether:ancient_fortress/pathways/terminators",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/start_straight_pathway"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/terminator_1"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/terminator_2"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/terminator_3"
+            }
+        },
+        {
+            "weight": 40,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/straight_pathway"
+            }
+        },
+        {
+            "weight": 72,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/long_straight_pathway"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/straight_hallway_1"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/straight_hallway_2"
+            }
+        },
+        {
+            "weight": 15,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/straight_hallway_3"
+            }
+        },
+        {
+            "weight": 12,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/straight_hallway_4"
+            }
+        },
+        {
+            "weight": 40,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/t_junction"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_t_junction_1"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_t_junction_2"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_t_junction_3"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_t_junction_4"
+            }
+        },
+        {
+            "weight": 56,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/crossroads"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_crossroads_1"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_crossroads_2"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_crossroads_3"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_crossroads_4"
+            }
+        },
+        {
+            "weight": 40,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/pathway_turn"
+            }
+        },
+        {
+            "weight": 7,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_pathway_turn_1"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_pathway_turn_2"
+            }
+        },
+        {
+            "weight": 7,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_pathway_turn_3"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/pathways/populated_pathway_turn_4"
+            }
+        }
+    ]
+}

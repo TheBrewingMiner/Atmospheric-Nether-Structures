@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tbm_nether:mausoleum",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 92354713,
+    "spacing": 48,
+    "separation": 24
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "tbm_nether:ancient_fortress/fortress_center",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {	
+            "weight": 1,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/center/center_1",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 2,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/center/center_2",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 3,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/center/center_3",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {	
+            "weight": 6,
+            "element": {
+                "location": "tbm_nether:ancient_fortress/center/center_4",
+                "processors": "tbm_nether:generic_ancient_fortress_degradation",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

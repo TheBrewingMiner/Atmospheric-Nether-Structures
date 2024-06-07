@@ -1,0 +1,33 @@
+{
+    "name": "tbm_nether:ancient_fortress/rooms/entrances",
+    "fallback": "tbm_nether:ancient_fortress/rooms/entrances_fallback",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/entrances/small_entrance"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/entrances/medium_entrance"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "tbm_nether:ancient_fortress/rooms/entrances/large_entrance"
+            }
+        }
+    ]
+}

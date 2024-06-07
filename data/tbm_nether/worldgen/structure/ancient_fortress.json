@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#tbm_nether:has_structure/ancient_fortress",
+  "step": "underground_structures",
+  "spawn_overrides": {
+    "ambient": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "axolotls": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "creature": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "misc": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "monster": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "underground_water_creature": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "water_ambient": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "water_creature": {
+      "bounding_box": "full",
+      "spawns": []
+    }
+  },
+  "terrain_adaptation": "beard_box",
+  "start_pool": "tbm_nether:ancient_fortress/fortress_center",
+  "size": 7,
+  "start_height": {
+    "absolute": -48
+  },
+  "start_jigsaw_name": "tbm_nether:center_anchor",
+  "max_distance_from_center": 116,
+  "use_expansion_hack": false
+}

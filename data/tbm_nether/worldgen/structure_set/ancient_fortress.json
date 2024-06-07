@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "tbm_nether:ancient_fortress",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 237845203,
+        "spacing": 32,
+        "separation": 12
+    }
+}
