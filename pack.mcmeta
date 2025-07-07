@@ -3,7 +3,7 @@
        "pack_format": 10,
        "supported_formats": [
         10,
-        80
+        81
        ],
        "description": "An add-on to Atmos. Nether for compelling and rewarding structures."
     },
@@ -12,7 +12,7 @@
             {
                 "formats": [
                     43,
-                    80
+                    81
                 ],
                 "directory": "1-21-overlay"
             }
